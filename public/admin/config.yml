@@ -1,0 +1,26 @@
+# CONFIGURACIÓN DE MUESTRA: antes de usar, indicar nombre real del repo y OAuth.
+backend:
+  name: github
+  repo: REEMPLAZAR_USUARIO_O_ORGANIZACION/anadia-ai-studio
+  branch: main
+  # base_url: https://URL_DE_SERVICIO_OAUTH
+  # auth_endpoint: auth
+media_folder: public/media/uploads
+public_folder: /media/uploads
+publish: false
+collections:
+  - name: insights
+    label: Insights
+    folder: content/insights
+    create: true
+    slug: '{{slug}}'
+    extension: md
+    format: frontmatter
+    fields:
+      - {label: Título, name: title, widget: string}
+      - {label: Resumen, name: description, widget: text}
+      - {label: Categoría, name: category, widget: select, options: [Perspectivas, AI First, AI Native, Casos y experiencias]}
+      - {label: Imagen, name: image, widget: image, required: false}
+      - {label: Estado, name: status, widget: select, options: [draft, published], default: draft}
+      - {label: Orden, name: order, widget: number, default: 10}
+      - {label: Contenido, name: body, widget: markdown}

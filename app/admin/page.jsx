@@ -1,0 +1,1 @@
+export default function AdminRoute(){return <div className="container" style={{padding:'100px 20px'}}><h1>Administración editorial</h1><p>El panel Decap se encuentra en <a href="/admin/index.html">/admin/index.html</a>. Antes de iniciar sesión hay que configurar el repositorio real y el servicio OAuth seguro de GitHub. Consulta README.md.</p></div>}

@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "ai-native-desde-el-origen",
+    "category": "AI Native",
+    "title": "AI Native: diseñar una empresa desde su origen",
+    "description": "Qué cambia cuando la inteligencia artificial forma parte de la arquitectura del negocio y no solamente de sus herramientas.",
+    "image": "/media/ai-native.svg"
+  },
+  {
+    "slug": "de-ai-first-a-resultados",
+    "category": "AI First",
+    "title": "De AI First a resultados medibles",
+    "description": "Una hoja de ruta para identificar oportunidades de IA sin convertir la transformación en una colección de pilotos.",
+    "image": "/media/ai-first.svg"
+  },
+  {
+    "slug": "criterio-frente-al-ruido",
+    "category": "Perspectivas",
+    "title": "Menos ruido, más criterio para decidir sobre IA",
+    "description": "Una perspectiva editorial sobre cómo separar las oportunidades de negocio del entusiasmo tecnológico.",
+    "image": "/media/perspectivas.svg"
+  },
+  {
+    "slug": "del-prototipo-al-aprendizaje",
+    "category": "Casos y experiencias",
+    "title": "Del prototipo al aprendizaje: cómo evaluar un proyecto de IA",
+    "description": "Una guía metodológica para documentar resultados, limitaciones y decisiones de mejora.",
+    "image": "/media/casos.svg"
+  }
+]
