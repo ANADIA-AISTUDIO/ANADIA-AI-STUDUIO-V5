@@ -2,8 +2,8 @@
 title: "Menos ruido, más criterio para decidir sobre IA"
 description: "Una perspectiva editorial sobre cómo separar las oportunidades de negocio del entusiasmo tecnológico."
 category: "Perspectivas"
-image: "/media/perspectivas.svg"
-status: "draft"
+image: "/media/criterio-editorial.svg"
+status: "published"
 order: 3
 ---
 
