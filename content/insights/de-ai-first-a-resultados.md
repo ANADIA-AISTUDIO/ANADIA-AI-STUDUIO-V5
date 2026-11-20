@@ -2,8 +2,8 @@
 title: "De AI First a resultados medibles"
 description: "Una hoja de ruta para identificar oportunidades de IA sin convertir la transformación en una colección de pilotos."
 category: "AI First"
-image: "/media/ai-first.svg"
-status: "draft"
+image: "/media/ai-first-editorial.svg"
+status: "published"
 order: 2
 ---
 
