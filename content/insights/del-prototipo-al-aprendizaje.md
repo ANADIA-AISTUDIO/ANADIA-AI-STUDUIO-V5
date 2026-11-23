@@ -2,7 +2,7 @@
 title: "Del prototipo al aprendizaje: cómo evaluar un proyecto de IA"
 description: "Una guía metodológica para documentar resultados, limitaciones y decisiones de mejora."
 category: "Casos y experiencias"
-image: "/media/casos.svg"
+image: "/media/insights/del-prototipo-al-aprendizaje.webp"
 status: "draft"
 order: 4
 ---

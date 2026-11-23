@@ -2,7 +2,7 @@
 title: "AI Native: diseñar una empresa desde su origen"
 description: "Qué cambia cuando la inteligencia artificial forma parte de la arquitectura del negocio y no solamente de sus herramientas."
 category: "AI Native"
-image: "/media/ai-native.svg"
+image: "/media/insights/ai-native-desde-el-origen.webp"
 status: "draft"
 order: 1
 ---

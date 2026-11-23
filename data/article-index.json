@@ -4,27 +4,41 @@
     "category": "AI Native",
     "title": "AI Native: diseñar una empresa desde su origen",
     "description": "Qué cambia cuando la inteligencia artificial forma parte de la arquitectura del negocio y no solamente de sus herramientas.",
-    "image": "/media/ai-native.svg"
+    "image": "/media/insights/ai-native-desde-el-origen.webp"
   },
   {
     "slug": "de-ai-first-a-resultados",
     "category": "AI First",
     "title": "De AI First a resultados medibles",
     "description": "Una hoja de ruta para identificar oportunidades de IA sin convertir la transformación en una colección de pilotos.",
-    "image": "/media/ai-first.svg"
+    "image": "/media/insights/de-ai-first-a-resultados.webp"
   },
   {
     "slug": "criterio-frente-al-ruido",
     "category": "Perspectivas",
     "title": "Menos ruido, más criterio para decidir sobre IA",
     "description": "Una perspectiva editorial sobre cómo separar las oportunidades de negocio del entusiasmo tecnológico.",
-    "image": "/media/perspectivas.svg"
+    "image": "/media/insights/criterio-frente-al-ruido.webp"
   },
   {
     "slug": "del-prototipo-al-aprendizaje",
     "category": "Casos y experiencias",
     "title": "Del prototipo al aprendizaje: cómo evaluar un proyecto de IA",
     "description": "Una guía metodológica para documentar resultados, limitaciones y decisiones de mejora.",
-    "image": "/media/casos.svg"
+    "image": "/media/insights/del-prototipo-al-aprendizaje.webp"
+  },
+  {
+    "slug": "ai-first-company-estrategia-operacion",
+    "category": "AI First",
+    "title": "AI First Company: cuando la inteligencia artificial transforma la manera de operar",
+    "description": "Cómo pasar de utilizar herramientas de IA a diseñar una organización que aprende, decide y crea valor con ellas.",
+    "image": "/media/insights/ai-first-company-estrategia-operacion.webp"
+  },
+  {
+    "slug": "gobernanza-de-ia-en-la-practica",
+    "category": "Perspectivas",
+    "title": "Gobernanza de IA en la práctica: quién decide, qué se mide y cuándo intervenir",
+    "description": "Cómo definir responsabilidades, controles y métricas para supervisar el uso de IA en la empresa.",
+    "image": "/media/insights/gobernanza-de-ia-en-la-practica.webp"
   }
 ]
