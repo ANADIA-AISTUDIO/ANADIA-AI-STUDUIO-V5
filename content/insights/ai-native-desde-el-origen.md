@@ -22,3 +22,7 @@ La oportunidad no consiste únicamente en reducir costos. Puede transformar el t
 ## Una pregunta para el fundador
 
 Si hoy construyeras de nuevo tu negocio, sin las limitaciones de los procesos heredados, ¿qué diseñarías de manera diferente?
+
+## Diseñar para aprender desde el comienzo
+
+Imagina una plataforma que ayuda a pequeñas empresas a seleccionar proveedores. Desde el inicio puede registrar qué información respalda cada sugerencia y permitir que una persona apruebe las compras. Cuando una recomendación se descarta, el equipo registra la razón. Así puede distinguir entre un catálogo incompleto, una mala clasificación y un requisito que el sistema todavía desconoce. Diseñar ese circuito desde la primera versión hace que mejorar el producto sea parte del trabajo diario.

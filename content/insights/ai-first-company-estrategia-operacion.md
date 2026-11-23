@@ -22,3 +22,7 @@ Los equipos necesitan formación, nuevos hábitos de documentación y criterios 
 ## De los pilotos a una capacidad permanente
 
 Una empresa AI First aprende a experimentar sin confundir demostraciones llamativas con resultados sostenibles. Integra los proyectos útiles en sus procesos, mide su impacto y corrige lo que no funciona. Su ventaja no reside en acumular herramientas, sino en construir una capacidad organizacional para mejorar continuamente.
+
+## Llevar lo aprendido al trabajo diario
+
+Si un equipo usa IA para preparar reuniones comerciales, puede acordar qué fuentes se consultan, quién revisa el resumen y dónde se registran las correcciones. Si varias personas encuentran el mismo error, es más útil corregir la fuente o el flujo que pedirle a cada integrante que lo arregle por su cuenta. Una revisión periódica permite incorporar lo aprendido a la formación del equipo y retirar usos que dejaron de aportar valor.

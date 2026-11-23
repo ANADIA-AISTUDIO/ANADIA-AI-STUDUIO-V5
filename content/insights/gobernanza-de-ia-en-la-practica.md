@@ -28,3 +28,7 @@ Vuelve a evaluar cuando cambien el modelo, las fuentes, los permisos o el proces
 ## Practica la respuesta a un fallo
 
 Escoge un caso de uso y simula un error plausible. Comprueba quién puede desactivar el sistema, cómo se revisan los casos afectados y qué debe ocurrir antes de reactivarlo. Si esas respuestas requieren improvisación, ahí tienes la primera tarea de gobernanza.
+
+## Qué revisar cuando cambian las fuentes
+
+Antes de conectar una nueva fuente al asistente de atención, comprueba quién puede consultarla y qué ocurre cuando contradice un procedimiento vigente. Prepara casos que el equipo de operaciones pueda repetir y guarda el resultado de esa revisión. Si aparece un fallo en producción, el equipo debe saber dónde reportarlo y cómo continuar la atención manual mientras se corrige.

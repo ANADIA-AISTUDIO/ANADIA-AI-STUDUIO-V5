@@ -18,3 +18,9 @@ Un piloto útil debe tener una métrica, una persona responsable y un criterio c
 ## El factor humano
 
 La formación, la gobernanza y la supervisión forman parte del diseño. Una organización AI First necesita que sus equipos comprendan las posibilidades y limitaciones de las herramientas que utilizan.
+
+## Medir el proceso de principio a fin
+
+En un equipo que prepara cotizaciones, la primera medida puede ser el tiempo desde que llega una solicitud hasta que se envía una respuesta. Antes de probar la IA, conviene registrar cuánto tarda el equipo, cuántas cotizaciones vuelven para corrección y qué excepciones requieren una segunda opinión.
+
+Durante la prueba, un asistente puede redactar borradores a partir de un catálogo aprobado. Compara solicitudes similares y cuenta también el tiempo de revisión: una redacción más rápida aporta poco si corregirla toma más tiempo. Registra los errores que llegan al cliente y acuerda qué tolerancia es aceptable. Con esa evidencia, la persona responsable del proceso puede decidir si amplía la prueba, modifica el flujo o vuelve al método anterior.
