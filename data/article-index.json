@@ -4,27 +4,41 @@
     "category": "AI Native",
     "title": "AI Native: diseñar una empresa desde su origen",
     "description": "Qué cambia cuando la inteligencia artificial forma parte de la arquitectura del negocio y no solamente de sus herramientas.",
-    "image": "/media/ai-native.svg"
+    "image": "/media/ai-native-editorial.svg"
   },
   {
     "slug": "de-ai-first-a-resultados",
     "category": "AI First",
     "title": "De AI First a resultados medibles",
     "description": "Una hoja de ruta para identificar oportunidades de IA sin convertir la transformación en una colección de pilotos.",
-    "image": "/media/ai-first.svg"
+    "image": "/media/ai-first-editorial.svg"
   },
   {
     "slug": "criterio-frente-al-ruido",
     "category": "Perspectivas",
     "title": "Menos ruido, más criterio para decidir sobre IA",
     "description": "Una perspectiva editorial sobre cómo separar las oportunidades de negocio del entusiasmo tecnológico.",
-    "image": "/media/perspectivas.svg"
+    "image": "/media/criterio-editorial.svg"
   },
   {
     "slug": "del-prototipo-al-aprendizaje",
     "category": "Casos y experiencias",
     "title": "Del prototipo al aprendizaje: cómo evaluar un proyecto de IA",
     "description": "Una guía metodológica para documentar resultados, limitaciones y decisiones de mejora.",
-    "image": "/media/casos.svg"
+    "image": "/media/prototipo-editorial.svg"
+  },
+  {
+    "slug": "ai-first-company-estrategia-operacion",
+    "category": "AI First",
+    "title": "AI First Company: cuando la inteligencia artificial transforma la manera de operar",
+    "description": "Cómo pasar de utilizar herramientas de IA a diseñar una organización que aprende, decide y crea valor con ellas.",
+    "image": "/media/ai-first-company-editorial.svg"
+  },
+  {
+    "slug": "insurtech-inteligencia-artificial",
+    "category": "Casos y experiencias",
+    "title": "Insurtech e inteligencia artificial: hacia un seguro más simple, ágil y confiable",
+    "description": "Aplicaciones de la IA en distribución, suscripción, siniestros y atención al asegurado, con supervisión y confianza.",
+    "image": "/media/insurtech-editorial.svg"
   }
 ]
